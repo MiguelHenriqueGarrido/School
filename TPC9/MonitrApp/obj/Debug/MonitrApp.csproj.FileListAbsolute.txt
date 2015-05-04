@@ -1,0 +1,10 @@
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\bin\Debug\MonitrApp.exe.config
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\bin\Debug\MonitrApp.exe
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\bin\Debug\MonitrApp.pdb
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\bin\Debug\MonitrGw.dll
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\bin\Debug\RestSharp.dll
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\bin\Debug\MonitrGw.pdb
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\bin\Debug\RestSharp.xml
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\obj\Debug\MonitrApp.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\obj\Debug\MonitrApp.exe
+C:\Users\Miguel\Desktop\ave-2014-15-sem2-i41d-master\ave-2014-15-sem2-i41d-master\aula23-tpc-multievent\MonitrApp\obj\Debug\MonitrApp.pdb
